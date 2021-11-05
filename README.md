@@ -1,4 +1,4 @@
-# RIPE-Manual-Raspian
+# RIPE-Manual-Raspbian
 
 Para crear e instalar el paquete de software en un Raspberry Pi, siga las instrucciones:
 
